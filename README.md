@@ -33,7 +33,7 @@ Next the list of December temperature is converted into a pandas DataFrame. Pand
                     
 ![image](https://user-images.githubusercontent.com/112978144/212777879-7c0fda92-3d60-49d6-b4f8-a6c94db788a3.png)
 # summary Of the Findings:
-                        Finding from the both months shows that even though temperatures recorded in December vary more than June, December is providing more appropriate weather conditions for surfing and ice cream demand. There is not a big variation is Dec and June temperatures as we can check the merged table so, investor should not have any concerns while investing in Surf's as mean temperature difference between June and December temperature is only about 3 degrees.
+Finding from the both months shows that even though temperatures recorded in December vary more than June, December is providing more appropriate weather conditions for surfing and ice cream demand. There is not a big variation is Dec and June temperatures as we can check the merged table so, investor should not have any concerns while investing in Surf's as mean temperature difference between June and December temperature is only about 3 degrees.
 
 
 
