@@ -1,17 +1,17 @@
 # surfs_up
 # OverView Of The Analysis:
-                    Surf's Up analysis is designed to get the data that can be used to convince investors to invest in Surf. This analysis shows the results of the months of June and December that can be compared to make decision how weather change affect the demand of icecream and shake on the whole. so, if investor have any concerns about their investment in Surf this data can be checked to see if their corcerns are really true or not.
+Surf's Up analysis is designed to get the data that can be used to convince investors to invest in Surf. This analysis shows the results of the months of June and December that can be compared to make decision how weather change affect the demand of icecream and shake on the whole. so, if investor have any concerns about their investment in Surf this data can be checked to see if their corcerns are really true or not.
 # Sources:
-        *-Data Hawaii_sqlite
-        *-SurfsUp_Challenge_starter_code.ipynb
+*-Data Hawaii_sqlite
+*-SurfsUp_Challenge_starter_code.ipynb
 # Language: 
-          Sql, python, SQLAlchemy,numpy etc.
+ Sql, python, SQLAlchemy,numpy etc.
 # Results:
 # Deliverable 1: Determine the Summary Statistics for June:
-                                                        In order to determine the summary statistics for June Dependencies are imported first. Then a quary is written to filters the measurementn table to retrieve the temperature of the month of June and this quary shows the following outcomes:
-                                                        [(54.0, 85.0, 71.66378066378067)]
-  In the next step June temperature is converted into a list that looks like this:
-  ![image](https://user-images.githubusercontent.com/112978144/212776014-b876f9fc-5431-4dcd-a40e-416bb5a8a964.png)
+In order to determine the summary statistics for June Dependencies are imported first. Then a quary is written to filters the measurementn table to retrieve the temperature of the month of June and this quary shows the following outcomes:
+[(54.0, 85.0, 71.66378066378067)]
+In the next step June temperature is converted into a list that looks like this:
+![image](https://user-images.githubusercontent.com/112978144/212776014-b876f9fc-5431-4dcd-a40e-416bb5a8a964.png)
 After converting the June temperature into a list a DataFrame is created for the month of June that is as follow:
 ![image](https://user-images.githubusercontent.com/112978144/212776287-642d7644-00ec-4dbb-a842-00ad01140d3d.png)![image](https://user-
 
@@ -21,15 +21,15 @@ pandas DataFrame is as follow:
 
 
 # Deliverable 2: Determine the Summary Statistics for December:
-                                                            To get the statistical results from the month of December first a query is written that filters the Measurement table to retrieve the temperatures for the month of December that provided the temperature from 2010 to 2011. Then December temperature is converted into a list. 
+To get the statistical results from the month of December first a query is written that filters the Measurement table to retrieve the temperatures for the month of December that provided the temperature from 2010 to 2011. Then December temperature is converted into a list. 
 Next the list of December temperature is converted into a pandas DataFrame. Pandas DataFrame looks like this:
 ![image](https://user-images.githubusercontent.com/112978144/212780079-b3f6ef4c-b65f-4997-801b-0f19554fba4f.png)
 
 # summary statistics for the month of December:
-                                      A quary is written to calculate the summary statistics for the month of December that is as follow:
-                                      ![image](https://user-images.githubusercontent.com/112978144/212777627-25b73c66-792a-42a2-a590-d6b786631222.png)
+A quary is written to calculate the summary statistics for the month of December that is as follow:
+![image](https://user-images.githubusercontent.com/112978144/212777627-25b73c66-792a-42a2-a590-d6b786631222.png)
 # Additional Merging Data: 
-                    Additionally both June and December data is merged to compare both temperatures.
+Additionally both June and December data is merged to compare both temperatures.
                     
 ![image](https://user-images.githubusercontent.com/112978144/212777879-7c0fda92-3d60-49d6-b4f8-a6c94db788a3.png)
 # summary Of the Findings:
