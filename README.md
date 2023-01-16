@@ -4,7 +4,7 @@
 # Sources:
         *-Data Hawaii_sqlite
         *-SurfsUp_Challenge_starter_code.ipynb
-# Langurage: 
+# Language: 
           Sql, python, SQLAlchemy,numpy etc.
 # Results:
 # Deliverable 1: Determine the Summary Statistics for June:
