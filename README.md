@@ -13,11 +13,18 @@
   In the next step June temperature is converted into a list that looks like this:
   ![image](https://user-images.githubusercontent.com/112978144/212776014-b876f9fc-5431-4dcd-a40e-416bb5a8a964.png)
 After converting the June temperature into a list a DataFrame is created for the month of June that is as follow:
-![image](https://user-images.githubusercontent.com/112978144/212776287-642d7644-00ec-4dbb-a842-00ad01140d3d.png)
+![image](https://user-images.githubusercontent.com/112978144/212776287-642d7644-00ec-4dbb-a842-00ad01140d3d.png)![image](https://user-
+
+pandas DataFrame is as follow: 
+![image](https://user-images.githubusercontent.com/112978144/212780236-b5196c16-7f04-4a67-a28a-809fea5db47f.png)
+
+
 
 # Deliverable 2: Determine the Summary Statistics for December:
                                                             To get the statistical results from the month of December first a query is written that filters the Measurement table to retrieve the temperatures for the month of December that provided the temperature from 2010 to 2011. Then December temperature is converted into a list. 
-Next the list of December temperature is converted into a pandas DataFrame.
+Next the list of December temperature is converted into a pandas DataFrame. Pandas DataFrame looks like this:
+![image](https://user-images.githubusercontent.com/112978144/212780079-b3f6ef4c-b65f-4997-801b-0f19554fba4f.png)
+
 # summary statistics for the month of December:
                                       A quary is written to calculate the summary statistics for the month of December that is as follow:
                                       ![image](https://user-images.githubusercontent.com/112978144/212777627-25b73c66-792a-42a2-a590-d6b786631222.png)
